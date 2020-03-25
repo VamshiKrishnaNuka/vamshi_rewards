@@ -9,7 +9,7 @@ Rewards Calculator Built With React.
 ```
 git clone 
 
-cd 
+cd vamshi_rewards
 
 npm install
 
